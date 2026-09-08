@@ -42,16 +42,16 @@
 ## ME Spec
 - [ ] Lock in scope and evaluation criteria for each of the following analyses:
   - [X] Orbital Simulation
-  - [~] Power Budget (in progress)
-  - [~] Link Budget (in progress)
+  - [X] Power Budget (in progress)
+  - [X] Link Budget (in progress)
   - [ ] CONOPS
-  - [ ] Interconnect Diagram
+  - [X] Interconnect Diagram
 - [ ] Write initial materials (guides, examples, and instructions) for each of the following deliverables
-  - [~] Orbital Simulation (in progress)
-  - [~] Power Budget (in progress)
-  - [~] Link Budget (in progress)
+  - [X] Orbital Simulation (in progress)
+  - [X] Power Budget (in progress)
+  - [X] Link Budget (in progress)
   - [ ] CONOPS
-  - [ ] Interconnect Diagram
+  - [X] Interconnect Diagram
 ## Sims Spec
 - [ ] Lock in scope and evaluation criteria for each of the following analyses:
   - [~] Power Budget (in progress)
