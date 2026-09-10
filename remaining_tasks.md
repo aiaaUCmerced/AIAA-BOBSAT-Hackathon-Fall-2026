@@ -28,10 +28,10 @@
   - [ ] Sims
 ## SVE Spec
 - [ ] Lock in scope and evaluation criteria for each of the following analyses:
-  - [ ] Structural CAD Model
-  - [ ] Electrical CAD Model
-  - [ ] Thermal Simulation
-  - [ ] Vibration Simulation
+  - [X] Structural CAD Model
+  - [X] Electrical CAD Model
+  - [X] Thermal Simulation
+  - [X] Vibration Simulation
   - [ ] ADCS Simulation
 - [ ] Write initial materials (guides, examples, and instructions) for each of the following deliverables
   - [ ] Structural CAD Model
