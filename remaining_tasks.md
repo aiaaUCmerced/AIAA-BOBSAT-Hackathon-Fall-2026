@@ -2,12 +2,12 @@
 ## Event Organization
 - [X] Schedule Hackathon event space and meeting times
 - [X] Notify alumni judges of event details, place, time
-- [ ] Create day-by-day organization plan
-- [ ] Create detailed guidance for judges and organizers
-- [ ] Lock in prize amount
+- [X] Create day-by-day organization plan
+- [X] Create detailed guidance for judges and organizers
+- [X] Lock in prize amount
 - [ ] Transfer ownership of repository to aiaa account
-- [ ] Create organizer presentation materials introducing and breaking down event
-- [ ] Write revised event hook
+- [X] Create organizer presentation materials introducing and breaking down event
+- [X] Write revised event hook
 ## General Spec
 - [X] Lock in scope and evaluation criteria for each of the following deliverables:
   - [X] Mission Overview
