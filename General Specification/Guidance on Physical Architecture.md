@@ -1,1 +1,1 @@
-TBD
+This needs to give a list of physical components of the satellite so that the team can assemble a phys arch. This should put forth a number of possible components so that people have to pick one. Some of them should be invalid for a 1U cubesat as well.
