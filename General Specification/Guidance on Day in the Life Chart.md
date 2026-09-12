@@ -1,1 +1,1 @@
-TBD
+This should be a very loose description of what a satellite does throughout the day to encourage people to look up DITL stuff on their own. We should explain basic metrics for power generation, consumption, imaging, and downlink stuff. They'll do the calculations in a spreadsheet as part of the deliverable. 
