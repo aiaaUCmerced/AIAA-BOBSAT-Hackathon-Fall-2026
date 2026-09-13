@@ -5,7 +5,7 @@
 - [X] Create day-by-day organization plan
 - [X] Create detailed guidance for judges and organizers
 - [X] Lock in prize amount
-- [ ] Transfer ownership of repository to aiaa account
+- [X] Transfer ownership of repository to aiaa account
 - [X] Create organizer presentation materials introducing and breaking down event
 - [X] Write revised event hook
 ## General Spec
@@ -16,11 +16,11 @@
   - [X] Day in the Life Chart
   - [X] Final Presentation
 - [ ] Write initial materials (guides, examples, and instructions) for each of the following deliverables
-  - [ ] Mission Overview
+  - [X] Mission Overview
   - [ ] Physical Architecture
-  - [ ] Block Diagrams
-  - [ ] Day in the Life Chart
-  - [ ] Final Presentation
+  - [X] Block Diagrams
+  - [X] Day in the Life Chart
+  - [X] Final Presentation
 - [ ] (Optional) Make an exemplary submission for judge context for each of the following specifications:
   - [ ] General
   - [ ] SVE
@@ -32,13 +32,13 @@
   - [X] Electrical CAD Model
   - [X] Thermal Simulation
   - [X] Vibration Simulation
-  - [ ] ADCS Simulation
+  - [X] ADCS Simulation
 - [ ] Write initial materials (guides, examples, and instructions) for each of the following deliverables
   - [ ] Structural CAD Model
   - [ ] Electrical CAD Model
   - [ ] Thermal Simulation
   - [ ] Vibration Simulation
-  - [ ] ADCS Simulation
+  - [X] ADCS Simulation
 ## ME Spec
 - [ ] Lock in scope and evaluation criteria for each of the following analyses:
   - [X] Orbital Simulation
@@ -53,12 +53,12 @@
   - [ ] CONOPS
   - [X] Interconnect Diagram
 ## Sims Spec
-- [ ] Lock in scope and evaluation criteria for each of the following analyses:
-  - [~] Power Budget (in progress)
-  - [~] Link Budget (in progress)
-  - [ ] Telemetry Simulation
-  - [ ] Processing Budget
-  - [ ] Onboard Data Handling
+- [X] Lock in scope and evaluation criteria for each of the following analyses:
+  - [X] Power Budget (in progress)
+  - [X] Link Budget (in progress)
+  - [X] Telemetry Simulation
+  - [X] Processing Budget
+  - [X] Onboard Data Handling
 - [ ] Write initial materials (guides, examples, and instructions) for each of the following deliverables
   - [~] Power Budget (in progress)
   - [~] Link Budget (in progress)
