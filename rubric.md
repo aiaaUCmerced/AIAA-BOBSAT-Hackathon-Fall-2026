@@ -39,7 +39,7 @@ The general specification is the baseline that all teams will complete. As a res
 4. A Day in the Life Chart
 
 ## Mission Overview
-**Minimum Requirement**: The mission overview is the background and justification for your satellite. The mission overview covers (at a high level) what your satellite is trying to do, how it is accomplishing that, and why what it's doing is important or valuable. Much of the info needed here can be found in the Guidance on High Level Mission Overview document, but you will need to fill in some of the gaps with your own research. The mission overview constitutes one slide in your presentation, and it's best placed right in the beginning! 
+**Minimum Requirement**: The mission overview is the background and justification for your satellite. The mission overview covers (at a high level) what your satellite is trying to do, how it is accomplishing that, and why what it's doing is important or valuable. Not much of the info needed here can be found in the Guidance on High Level Mission Overview document, but you will need to fill in some of the gaps with your own research. The mission overview constitutes one slide in your presentation, and it's best placed right in the beginning! 
 
 **For your Consideration**: The mission provided by the customer is intentionally left vague! Your team can provide a more compelling case for your work if you give more details than are provided to you. This could take the form of context gained by the analyses you've done in your general specification. It could also take the form of comparisons to other satellites that've been launched or planned to launch. 
 
@@ -59,7 +59,7 @@ The general specification is the baseline that all teams will complete. As a res
 **For your Consideration**: One of the most insightful ways to compare the effect of some trade-off is to see its impact on the satellite operation. For instance, a selection of a different solar panel or battery may free up extra time for imaging. Showing this trade-off with the day in the life chart could be a good way to get extra points. On the other hand, different operational profiles could be compared.
 
 ## Final Presentation
-**Minimum Requirement**: Each team will present the end result of their work during the final day of the event. This presentation should include one slide for each of the prior deliverables, plus any additional slides that you deem necessary to present your work. Each team will be limited to 10 minutes to deliver their presentation (maybe more or less depending on how many teams there are).
+**Minimum Requirement**: Each team will present the end result of their work during the final day of the event. This presentation should include one slide for each of the prior deliverables, plus any additional slides that you deem necessary to present your work. Each team will be limited to 10-15 minutes to deliver their presentation (maybe more or less depending on how many teams there are).
 
 **For your Consideration**: Extra points in this category entirely correspond with the quality of the presentation. Good presentations will generally have the following: Balance of contribution from each team member, preference for visuals over text where appropriate, little dead time and smooth flow of presentation narrative, sufficient detail *and* sufficient summarization, and appropriate pace (don't take too long). 
 
