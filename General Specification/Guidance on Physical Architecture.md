@@ -3,12 +3,12 @@ Bobcat Ballistics requires that the analysts assemble a rudimentary physical arc
 ---
 
 For this deliverable, the analysts should evaluate the handful of presented component options and demonstrate/justify their choices. It should be noted that the components presented here are only a preliminary list! The analysts are encouraged to find and implement other options:
-1. Payload System (Imager and/or Data Processing).
-2. Electrical Power System (Generation, Storage, and Distribution).
-3. ADCS (Attitude Determination and Attitude Control).
-4. Structural System (Frame, Rails, and/or Heat Management).
-5. C&DH System (Command Module).
-6. Communications System (Radio Transmitter and Receiver).
+1. Payload System (Imager and/or Data Processing). Components TBD
+2. Electrical Power System (Generation, Storage, and Distribution). Components TBD
+3. ADCS (Attitude Determination and Attitude Control). Components TBD
+4. Structural System (Frame, Rails, and/or Heat Management). Components TBD
+5. C&DH System (Command Module). Components TBD
+6. Communications System (Radio Transmitter and Receiver). Components TBD
 These subsystems compose the satellite system. The Physical Architecture diagram should clearly show the relationship between the satellite system, its component subsystems, and each of their substituent elements.
 
 ---
@@ -21,5 +21,7 @@ For further consideration, the analysts could include:
 ---
 
 Bobcat Ballistics is providing the following resources for the analysts' consideration:
+
 The Systems Engineering Book of Knowledge [article](https://sebokwiki.org/wiki/Physical_Architecture) on Physical Architecture. This gives background on the physical architecture and some example diagrams.
+
 [Functional Architecture](https://sebokwiki.org/wiki/Functional_Architecture). The same, but for the functional architecture
