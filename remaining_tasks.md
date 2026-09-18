@@ -15,9 +15,9 @@
   - [X] Block Diagrams
   - [X] Day in the Life Chart
   - [X] Final Presentation
-- [ ] Write initial materials (guides, examples, and instructions) for each of the following deliverables
+- [X] Write initial materials (guides, examples, and instructions) for each of the following deliverables
   - [X] Mission Overview
-  - [ ] Physical Architecture
+  - [X] Physical Architecture
   - [X] Block Diagrams
   - [X] Day in the Life Chart
   - [X] Final Presentation
@@ -27,30 +27,30 @@
   - [ ] ME
   - [ ] Sims
 ## SVE Spec
-- [ ] Lock in scope and evaluation criteria for each of the following analyses:
+- [X] Lock in scope and evaluation criteria for each of the following analyses:
   - [X] Structural CAD Model
   - [X] Electrical CAD Model
   - [X] Thermal Simulation
   - [X] Vibration Simulation
   - [X] ADCS Simulation
-- [ ] Write initial materials (guides, examples, and instructions) for each of the following deliverables
-  - [ ] Structural CAD Model
-  - [ ] Electrical CAD Model
-  - [ ] Thermal Simulation
-  - [ ] Vibration Simulation
+- [X] Write initial materials (guides, examples, and instructions) for each of the following deliverables
+  - [X] Structural CAD Model
+  - [X] Electrical CAD Model
+  - [X] Thermal Simulation
+  - [X] Vibration Simulation
   - [X] ADCS Simulation
 ## ME Spec
-- [ ] Lock in scope and evaluation criteria for each of the following analyses:
+- [X] Lock in scope and evaluation criteria for each of the following analyses:
   - [X] Orbital Simulation
   - [X] Power Budget (in progress)
   - [X] Link Budget (in progress)
-  - [ ] CONOPS
+  - [X] CONOPS
   - [X] Interconnect Diagram
-- [ ] Write initial materials (guides, examples, and instructions) for each of the following deliverables
+- [X] Write initial materials (guides, examples, and instructions) for each of the following deliverables
   - [X] Orbital Simulation (in progress)
   - [X] Power Budget (in progress)
   - [X] Link Budget (in progress)
-  - [ ] CONOPS
+  - [X] CONOPS
   - [X] Interconnect Diagram
 ## Sims Spec
 - [X] Lock in scope and evaluation criteria for each of the following analyses:
@@ -59,9 +59,9 @@
   - [X] Telemetry Simulation
   - [X] Processing Budget
   - [X] Onboard Data Handling
-- [ ] Write initial materials (guides, examples, and instructions) for each of the following deliverables
-  - [~] Power Budget (in progress)
-  - [~] Link Budget (in progress)
-  - [ ] Telemetry Simulation
-  - [ ] Processing Budget
-  - [ ] Onboard Data Handling
+- [X] Write initial materials (guides, examples, and instructions) for each of the following deliverables
+  - [X] Power Budget
+  - [X] Link Budget
+  - [X] Telemetry Simulation
+  - [X] Processing Budget
+  - [X] Onboard Data Handling
